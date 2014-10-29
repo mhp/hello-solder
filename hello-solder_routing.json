@@ -1,0 +1,418 @@
+{
+  "routes": {
+    "bottom": {
+      "00b485374": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 11.368164,7.1224975 c 0.07301,-0.208433 0.29106,-0.434363 0.317332,-0.5714805"
+      }, 
+      "02bb48da4": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 3.860581,14.605817 c 0.073005,-0.208433 0.2910618,-0.434363 0.3173338,-0.57148"
+      }, 
+      "1610806a3": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -11.758266,4.1510697 c 0.07301,-0.208433 0.291062,-0.434363 0.317334,-0.5714805"
+      }, 
+      "27d289c95": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 10.858603,12.271122 C 10.640529,12.062689 9.0150861,10.526904 8.9807167,10.426172"
+      }, 
+      "2b8b935d9": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 6.5773174,11.6829 c 0.073005,-0.208433 0.2910618,-0.434363 0.3173338,-0.57148"
+      }, 
+      "4e8685d53": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -1.2675898,16.26074 c 0.038006,-0.299259 0.30698332,-2.519248 0.36756346,-2.60676"
+      }, 
+      "53a9d214e": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 12.022594,-11.002431 c -0.156081,0.258145 -1.302084,2.1783994 -1.392944,2.2338318"
+      }, 
+      "555c5d9bc": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 14.084899,-6.5248672 c 0.07301,-0.208432 0.291062,-0.4343625 0.317334,-0.5714805"
+      }, 
+      "582a0f749": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 14.084899,4.199578 c 0.07301,-0.2084319 0.291062,-0.4343624 0.317334,-0.5714804"
+      }, 
+      "5a24c3282": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -16.251488,-0.76501057 c 0.297444,-0.0502694 2.500222,-0.43558823 2.601526,-0.40294143"
+      }, 
+      "6eddb6b3b": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -11.758266,-6.5733755 c 0.07301,-0.208433 0.291062,-0.434363 0.317334,-0.5714805"
+      }, 
+      "6ff79d49d": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -6.8638644,14.605817 c 0.073005,-0.208433 0.2910618,-0.434363 0.3173338,-0.57148"
+      }, 
+      "7ca8806a4": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 11.368164,-3.6019477 c 0.07301,-0.208433 0.29106,-0.434363 0.317332,-0.5714805"
+      }, 
+      "9842d9cd0": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 16.118171,1.7901584 C 15.851319,1.6494796 13.867181,0.61802689 13.806517,0.53057298"
+      }, 
+      "990086978": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -14.475001,-3.6504556 c 0.07301,-0.2084335 0.291061,-0.4343635 0.317333,-0.5714805"
+      }, 
+      "a40dac333": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -4.2926633,-14.177978 c 0.07301,-0.208432 0.2910625,-0.434362 0.3173345,-0.57148"
+      }, 
+      "ae76dd110": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -12.58985,10.43693 c 0.266858,-0.140666 2.239049,-1.1947835 2.345482,-1.1954146"
+      }, 
+      "bdf3c8c70": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 6.4317819,-14.177978 c 0.07301,-0.208432 0.2910625,-0.434362 0.3173345,-0.57148"
+      }, 
+      "e56aa0723": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -7.0094003,-11.255061 c 0.07301,-0.208433 0.291061,-0.434363 0.317333,-0.57148"
+      }, 
+      "f2a068fc9": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -4.147128,11.6829 c 0.073005,-0.208433 0.2910618,-0.434363 0.3173338,-0.57148"
+      }, 
+      "fbeaebd8d": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 1.1475029,-16.19764 c -0.03741,0.299334 -0.30195874,2.519855 -0.36236404,2.607488"
+      }, 
+      "fe33c8553": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -14.475001,7.0739897 c 0.07301,-0.2084335 0.291061,-0.4343635 0.317333,-0.5714805"
+      }, 
+      "febc4f2d1": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -11.061108,-12.085545 c 0.243153,0.178541 2.0532267,1.49168 2.1003119,1.587133"
+      }, 
+      "fed2f8422": {
+        "buffer-to-pour": 0.0, 
+        "stroke-width": 0.2, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 3.7150449,-11.255061 c 0.07301,-0.208433 0.291061,-0.434363 0.317333,-0.57148"
+      }
+    }, 
+    "top": {
+      "052761efd": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 9.8614126,-11.40012 c -2.844368,-1.117048 -7.3303294,2.6473122 -5.674623,4.9801113"
+      }, 
+      "19eb1d0e0": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -9.825419,11.217746 c 1.4933512,0.969204 7.5742133,-1.5250553 5.5376087,-4.7210586"
+      }, 
+      "36b0fca73": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 11.434702,9.5521373 C 11.700956,6.5079062 8.4992447,3.1418148 6.415168,4.6381649"
+      }, 
+      "476809661": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 1.3993076,-7.417097 c 0.8361536,-0.084288 1.6539551,1.3091807 -0.40665096,2.4839424"
+      }, 
+      "47896fc0f": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 1.1142963,14.953259 C 3.9595425,13.32083 6.2682106,8.343401 1.6065374,7.6367464"
+      }, 
+      "55c84a974": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -3.9558472,-6.5265889 c 0.6171608,-0.570412 2.1087827,0.05057 1.1696991,2.2287079"
+      }, 
+      "5915c65af": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 7.2268696,1.4793083 C 7.4241632,2.2962125 6.1549504,3.2960391 4.7106957,1.414473"
+      }, 
+      "6000f34f2": {
+        "stroke-width": 0.5546, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 4.1158499,6.5464444 C 3.507396,7.2205502 1.8672212,6.7635499 2.6819327,4.3708632"
+      }, 
+      "672792bb6": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 6.3285228,-4.2093337 c 0.6856594,0.4859305 0.5319414,2.0009262 -1.9630616,2.4783442"
+      }, 
+      "7a37b93f9": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 15.034234,-0.95574473 C 13.475768,-3.5843215 7.74101,-4.507265 7.6147219,-1.6494041"
+      }, 
+      "8ceb0a17d": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -0.87650265,-15.159775 c -2.57809945,1.640618 -3.10013075,7.62863 -0.72483975,7.6646932"
+      }, 
+      "ac45f3ca6": {
+        "stroke-width": 0.5546, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -6.215608,4.1780919 C -7.4148668,3.3473682 -6.4628522,1.9015431 -4.2927754,2.5452275"
+      }, 
+      "b29a2632b": {
+        "stroke-width": 0.5546, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -1.6021584,7.457193 C -2.7963066,7.6450496 -3.0507623,6.6664178 -1.3134014,4.8305852"
+      }, 
+      "b61f06c4c": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -7.2733558,-1.6459573 c 0.3867531,-0.7461095 1.2664416,-0.9549294 2.2859713,0.6140895"
+      }, 
+      "da0b1e00f": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -11.23231,-10.255336 c -0.777489,3.0082487 2.009028,9.43719443 4.727124,6.0767761"
+      }, 
+      "fcdb3c215": {
+        "stroke-width": 0.5238, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -14.99418,1.0147854 c 0.74399,1.7674886 7.4920508,4.9267354 7.5292578,0.1220626"
+      }
+    }
+  }, 
+  "vias": {
+    "286e6611b": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        -2.8222221, 
+        -2.822222
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "683c1b423": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        3.9511109, 
+        -0.0
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "8be160370": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        2.822222, 
+        2.8222221
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "917374c64": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        -3.9511109, 
+        -0.0
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "bdc02839d": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        0.0, 
+        3.9511109
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "d63ef45c7": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        2.822222, 
+        -2.822222
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "d8cc81af7": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        -2.8222221, 
+        2.8222221
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "dfe809ded": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        0.0, 
+        -3.9511109
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }
+}
